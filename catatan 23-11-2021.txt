@@ -1,0 +1,4 @@
+directory -> Tempat folder yang sedang digunakan
+mkdir namadir -> membuat directory/folder baru
+cd namadir -> berpindah directory/tempat sesuai keinginan
+cd .. ->
